@@ -1,0 +1,6 @@
+"gungameplus"
+{
+	"title"		"Gun Game Plus"
+	"base"		"base"
+	"menusystem"	"1"
+}
